@@ -1,0 +1,237 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v1_3 {
+  width: 390px;
+  height: 1200px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v1_10 {
+  width: 216px;
+  color: rgba(127,56,160,1);
+  position: absolute;
+  top: 19px;
+  left: 86px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: center;
+}
+.v1_11 {
+  width: 817px;
+  height: 260px;
+  background: url("../images/v1_11.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 78px;
+  left: 214px;
+  overflow: hidden;
+}
+.v2_3 {
+  width: 286px;
+  color: rgba(127,56,160,1);
+  position: absolute;
+  top: 362px;
+  left: 52px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v2_5 {
+  width: 179px;
+  color: rgba(128,0,115,1);
+  position: absolute;
+  top: 443px;
+  left: 168px;
+  font-family: NovaMono;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_2 {
+  width: 218px;
+  height: 116px;
+  background: url("../images/v3_2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 438px;
+  left: 15px;
+  overflow: hidden;
+}
+.v3_5 {
+  width: 125px;
+  height: 125px;
+  background: url("../images/v3_5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 653px;
+  left: 138px;
+  overflow: hidden;
+}
+.v3_6 {
+  width: 224px;
+  color: url("../images/v3_6.png");
+  position: absolute;
+  top: 656px;
+  left: 28px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_8 {
+  width: 319px;
+  color: rgba(20,0,255,1);
+  position: absolute;
+  top: 823px;
+  left: 35px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_9 {
+  width: 112px;
+  height: 103px;
+  background: url("../images/v3_9.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 868px;
+  left: 23px;
+  overflow: hidden;
+}
+.v3_10 {
+  width: 234px;
+  color: rgba(0,246,39,1);
+  position: absolute;
+  top: 893px;
+  left: 135px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_11 {
+  width: 337px;
+  color: rgba(246,0,162,1);
+  position: absolute;
+  top: 581px;
+  left: 28px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_12 {
+  width: 198px;
+  color: rgba(255,163,55,1);
+  position: absolute;
+  top: 998px;
+  left: 95px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 36px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_13 {
+  width: 124px;
+  height: 136px;
+  background: url("../images/v3_13.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1042px;
+  left: 17px;
+  overflow: hidden;
+}
+.v3_15 {
+  width: 168px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 1083px;
+  left: 147px;
+  font-family: Jolly Lodger;
+  font-weight: Regular;
+  font-size: 35px;
+  opacity: 1;
+  text-align: left;
+}
+.v3_16 {
+  width: 212px;
+  color: url("../images/v3_16.png");
+  position: absolute;
+  top: 115px;
+  left: 29px;
+  font-family: NovaMono;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_17 {
+  width: 197px;
+  color: url("../images/v3_17.png");
+  position: absolute;
+  top: 180px;
+  left: 29px;
+  font-family: NovaMono;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_18 {
+  width: 313px;
+  color: url("../images/v3_18.png");
+  position: absolute;
+  top: 239px;
+  left: 29px;
+  font-family: NovaMono;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v3_19 {
+  width: 279px;
+  color: rgba(204,122,0,1);
+  position: absolute;
+  top: 290px;
+  left: 46px;
+  font-family: NovaMono;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
